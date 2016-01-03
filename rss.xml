@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[College Career Systems]]></title>
+        <description><![CDATA[College Career Systems]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 03 Jan 2016 18:27:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a19351ce-c507-42a0-b309-056c30af3d5b.jpg">]]></description>
+            <link>undefinedaa6e8fd6-6514-4e62-8728-e3b75ea8bf8f/index.html</link>
+            <guid isPermaLink="false">aa6e8fd6-6514-4e62-8728-e3b75ea8bf8f</guid>
+            <pubDate>Sun, 03 Jan 2016 18:27:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
